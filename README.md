@@ -106,7 +106,9 @@ WhatsApp-GroupDNA-Analyzer/
 
 The dataset used for this project is included in this repository.
 
-Dataset File: [`dataset.txt`](dataset.txt)
+- **File:** [`dataset.txt`](dataset.txt)
+- **Format:** WhatsApp Chat Export (.txt)
+- **Purpose:** Used for communication pattern analysis.
 ---
 
 ## 🎯 Learning Outcomes
