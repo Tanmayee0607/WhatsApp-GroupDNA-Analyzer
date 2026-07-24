@@ -131,7 +131,6 @@ Through this project, I learned:
 Engineering Student | CSE (Data Science)
 
 🔗 GitHub: https://github.com/Tanmayee0607
-
 🔗 LinkedIn: https://www.linkedin.com/in/b-r-tanmayee-068014372
 ---
 
