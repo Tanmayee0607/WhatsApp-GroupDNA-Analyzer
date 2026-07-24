@@ -130,9 +130,9 @@ Through this project, I learned:
 
 Engineering Student | CSE (Data Science)
 
-**GitHub:** [Tanmayee0607](https://github.com/Tanmayee0607)
+[![GitHub](https://img.shields.io/badge/GitHub-Tanmayee0607-black?logo=github)](https://github.com/Tanmayee0607)
 
-**LinkedIn:** [B R Tanmayee](https://www.linkedin.com/in/b-r-tanmayee-068014372)
+[LinkedIn](https://www.linkedin.com/in/b-r-tanmayee-988914272)
 ---
 
 ⭐ If you found this project interesting, feel free to star this repository!
