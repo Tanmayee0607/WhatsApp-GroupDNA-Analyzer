@@ -97,7 +97,7 @@ WhatsApp-GroupDNA-Analyzer/
 
 ### Personality Archetypes
 
-![Personality Archetypes](personality_archetypes.png)
+![Personality Archetypes](personality_archetypes1.png)
 
 ### Personality Archetypes
 
