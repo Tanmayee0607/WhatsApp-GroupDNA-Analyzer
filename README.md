@@ -127,12 +127,11 @@ Through this project, I learned:
 
 **B R Tanmayee**
 
-First Year B.Tech – Computer Science (Data Science)
+Engineering Student | CSE (Data Science)
 
-GitHub: https://github.com/Tanmayee0607
+🔗 GitHub: https://github.com/Tanmayee0607
 
-LinkedIn: *(Add your LinkedIn profile link here)*
-
+🔗 LinkedIn: https://www.linkedin.com/in/b-r-tanmayee-068014372
 ---
 
 ⭐ If you found this project interesting, feel free to star this repository!
