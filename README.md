@@ -1,5 +1,4 @@
-# WhatsApp-GroupDNA-Analyzer
-A Python project that analyzes WhatsApp group chats and generates communication insights using Python Fundamentals.
+
 # 📱 WhatsApp GroupDNA Analyzer
 
 A Python project that analyzes WhatsApp group chats and generates meaningful communication insights using only Python Fundamentals.
