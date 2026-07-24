@@ -132,7 +132,7 @@ Engineering Student | CSE (Data Science)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tanmayee0607-black?logo=github)](https://github.com/Tanmayee0607)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanmayee-0A66C2?logo=linkedin)](https://www.linkedin.com/in/r-tanmayee-a1aa14272)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanmayee-0A66C2?logo=linkedin)](https://www.linkedin.com/in/b-r-tanmayee-068014372)
 ---
 
 ⭐ If you found this project interesting, feel free to star this repository!
