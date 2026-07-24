@@ -81,27 +81,23 @@ WhatsApp-GroupDNA-Analyzer/
 
 ### Group Overview
 
-![Group Overview](screenshots/group_overview.png)
-
----
+![Group Overview](group_overview.png)
 
 ### Messages Per Person
 
-![Messages Per Person](screenshots/messages_per_person.png)
-
----
+![Messages Per Person](messages_per_person.png)
 
 ### Activity Heatmap
 
-![Activity Heatmap](screenshots/activity_heatmap.png)
-
----
+![Activity Heatmap](activity_heatmap.png)
 
 ### Favourite Words
 
-![Favourite Words](screenshots/favourite_words.png)
+![Favourite Words](favourite_words.png)
 
----
+### Personality Archetypes
+
+![Personality Archetypes](personality_archetypes.png)
 
 ### Personality Archetypes
 
