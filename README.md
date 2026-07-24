@@ -81,7 +81,7 @@ WhatsApp-GroupDNA-Analyzer/
 
 ### Group Overview
 
-![Group Overview](group_overview.png)
+Screenshot 2026-07-24 155530.png
 
 ### Messages Per Person
 
